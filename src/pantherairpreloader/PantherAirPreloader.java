@@ -45,7 +45,7 @@ public class PantherAirPreloader extends Preloader {
         p.setBottom(bar);
         p.setAlignment(bar, Pos.CENTER);
         
-   String image = PantherAirPreloader.class.getResource("Georgia_State_Athletics_logo.png").toExternalForm();
+   String image = PantherAirPreloader.class.getResource("20150216CPR_Arash_AkhlagiPSFC.jpg").toExternalForm();
     p.setStyle("-fx-background-image: url('" + image + "'); "
             + "-fx-background-size: 500 500;" +
            "-fx-background-position: center center; " +
